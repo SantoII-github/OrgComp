@@ -1,0 +1,1 @@
+Dibuja un cielo estrellado, usando estrellas de tres tamaños distintos y diferentes colores.

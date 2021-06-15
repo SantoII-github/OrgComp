@@ -1,0 +1,1 @@
+Genera la animación de un cielo estrellado, usando estrellas de tres tamaños distintos y diferentes colores, con estrellas fugaces atravesando la pantalla en un ciclo que se repite infinitamente.
