@@ -28,7 +28,7 @@ Configurar GDB para que haga las cosas más amigables
 ```
 $ wget -P ~ git.io/.gdbinit
 ```
-Este último comando crea un archivo llamado .gdbinit en el directorio personal que configura GDB para funcionar como un Dashboard
+Este último comando crea un archivo llamado .gdbinit en el directorio personal que configura GDB para funcionar como un Dashboard.
 Si se quiere volver a la versión normal, es necesario eliminarlo del directorio, teniendo en cuenta que es un archivo oculto.
 
 ## Ejecución
