@@ -3,7 +3,7 @@ Este es un proyecto realizado para la materia Organización del Computador 2021 
 El proyecto consiste en utilizar assembler ARMv8 para generar una imagen estática usando QEMU para emular el framebuffer de una Raspberry Pi 3, 
 y luego agregar una animación de al menos 10 segundos.
 
-# Como correrlo
+# Cómo correrlo
 Para poder ejecutar el proyecto es necesario tener instalado QEMU y una versión específica de GDB.
 ## Instalación
 Correr los siguientes comandos en orden:
